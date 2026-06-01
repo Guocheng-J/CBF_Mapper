@@ -5,6 +5,8 @@ The script analyses pcASL MRI data to derive cerebral blood flow maps. The scrip
 A conprehensive introduction to pcASL and perfusion imaging is available through the Sunnybrook Neuroimaging Summer School lecture series. You may find the slides from the following github link:
 https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025
 
+A video recording is available from a tutorial lecture delivered by Guocheng. Please cite the video if you decided to upload it to your channels (e.g. YouTube).
+
 # Dependencies
 These scripts are bash shell scritps that are build based on the Oxford_asl and FSL_anat module from FSL. 
 
